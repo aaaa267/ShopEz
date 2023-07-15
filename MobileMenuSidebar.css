@@ -1,0 +1,151 @@
+.mobile-menu-sidebar-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--white);
+  width: 280px;
+  height: 800px;
+}
+.nav-item {
+  position: absolute;
+  top: calc(50% - 8px);
+  left: 53px;
+}
+.iconcontrolhome {
+  position: absolute;
+  top: 12px;
+  left: 13px;
+  width: 24px;
+  height: 24px;
+}
+.nav-item8,
+.nav-item81 {
+  position: absolute;
+  top: 123px;
+  left: 10px;
+  width: 260px;
+  height: 48px;
+}
+.nav-item81 {
+  top: 171px;
+}
+.iconbusiness1,
+.nav-item82,
+.nav-item83,
+.nav-item84,
+.nav-item85 {
+  position: absolute;
+  top: 219px;
+  left: 10px;
+  width: 260px;
+  height: 48px;
+}
+.iconbusiness1,
+.nav-item83,
+.nav-item84,
+.nav-item85 {
+  top: 267px;
+}
+.iconbusiness1,
+.nav-item84,
+.nav-item85 {
+  top: 383px;
+}
+.iconbusiness1,
+.nav-item85 {
+  top: 431px;
+}
+.iconbusiness1 {
+  top: 12px;
+  left: 13px;
+  width: 24px;
+  height: 24px;
+  display: none;
+}
+.nav-item86,
+.nav-item87,
+.nav-item88,
+.nav-item89 {
+  position: absolute;
+  top: 499px;
+  left: 10px;
+  width: 260px;
+  height: 48px;
+}
+.nav-item87,
+.nav-item88,
+.nav-item89 {
+  top: 547px;
+}
+.nav-item88,
+.nav-item89 {
+  top: 595px;
+}
+.nav-item89 {
+  top: 335px;
+}
+.account-switcher-bg {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.iconcontrolclear {
+  position: absolute;
+  top: 10px;
+  left: 246px;
+  width: 24px;
+  height: 24px;
+  opacity: 0.5;
+}
+.welcome-username {
+  position: absolute;
+  top: calc(50% + 17.5px);
+  left: 7.14%;
+}
+.header {
+  position: absolute;
+  height: 14.13%;
+  width: 77.78%;
+  top: 0;
+  right: 22.22%;
+  bottom: 85.88%;
+  left: 0;
+}
+.avatar-icon {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  width: 44px;
+  height: 44px;
+}
+.mobile-menu-sidebar-inner,
+.mobile-menu-sidebar-item {
+  position: absolute;
+  top: 324.5px;
+  left: 9.5px;
+  border-top: 1px solid var(--gray-300);
+  box-sizing: border-box;
+  width: 261px;
+  height: 1px;
+}
+.mobile-menu-sidebar-inner {
+  top: 488.5px;
+}
+.mobile-menu-sidebar {
+  position: relative;
+  background-color: #636363;
+  width: 100%;
+  height: 800px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--text-normal-size);
+  color: var(--dark);
+  font-family: var(--text-normal);
+}
